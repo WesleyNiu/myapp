@@ -2,11 +2,11 @@ import logo from "./logo.svg";
 import "./App.css";
 
 function App() {
-  return <div className="App">
-    <span>
-      新的修改方式
-    </span>
-  </div>;
+  return (
+    <div className="App">
+      <span>创建新的分支nyf</span>
+    </div>
+  );
 }
 
 export default App;
